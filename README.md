@@ -19,7 +19,7 @@
 4. Install dependencies:
 
 ```
-  npm i
+   npm i
 ```
 
 5. Start App
